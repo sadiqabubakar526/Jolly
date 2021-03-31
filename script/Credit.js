@@ -55,7 +55,7 @@ this.game.state.start('Menu');
         
         about: function(){
             
-            this.gamedev = this.add.sprite(90,250,'suraj-abubakar');
+            this.gamedev = this.add.sprite(90,250,'shohan');
             this.gamedev.anchor.setTo(0.5);
             this.gamedev.scale.setTo(0.5,0.5);
             
